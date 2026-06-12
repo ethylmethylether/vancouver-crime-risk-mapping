@@ -134,19 +134,11 @@ Green represents low risk, yellow represents medium risk, and red represents hig
 
 ---
 
-### 5. Feature Importance
-
-This chart shows which features contributed most to the model’s predictions. Night-time crime ratio, average crime hour, weekend crime ratio, and distance to city center were among the strongest predictors.
-
-![Feature Importance](outputs/feature_importance.png)
-
----
-
-### 6. Average Temporal Crime Patterns by Risk Class
+### 5. Average Temporal Crime Patterns by Risk Class
 
 This chart compares average night-time and weekend crime ratios across low-, medium-, and high-risk grid cells.
 
-![Average Temporal Patterns by Risk Class](outputs/average_pattern_risk.png)
+![Average Temporal Patterns by Risk Class](outputs/Average_pattern_risk.png)
 
 ## Key Results
 
